@@ -38,5 +38,6 @@ author: Rohin Bhasin
 
 **Nikhil:** I agree with a lot of what Vidushi has said, and I think another one of my favorite things is meeting people who have the same drive and passion to help the student community that we do. It’s inspiring and encouraging just to see how many people have the same vision as us: it’s as much our conference as it is the rest of the staff’s.
 
+<center>&middot;&middot;&middot;</center>
 Stay tuned to hear more about R&#124;P… be sure to follow and like on [Twitter](https://twitter.com/uiuc_rp), [Facebook](https://facebook.com/acmrp), and [Instagram](https://www.instagram.com/uiuc_rp/)!   
 We’ll see you from September 17–22, 2018.
