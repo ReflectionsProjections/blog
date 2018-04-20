@@ -4,29 +4,29 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "HackIllinois"
+title: "Relfections | Projections"
 description: > # this means to ignore newlines until "email:"
-   The HackIllinois blog! Check out what we've been up to.
+   The Reflections | Projections blog! Check out what we've been up to.
 
 future: true
 
-email: contact@hackillinois.org
+email: conference-chair@acm.illinois.edu
 #blog logo
 logo: "/assets/images/logo.png"
 
 # blog cover
 cover: "/assets/images/cover.jpg"
 
-name: 'HackIllinois Team'
-author: 'HackIllinois Team'
+name: 'Reflections | Projections Staff'
+author: 'Reflections | Projections Staff'
 author_image: "/assets/images/logo.png"
 
 paginate:	5
 
-url: "http://blog.hackillinois.org" # the base hostname & protocol for your site
+url: "http://blog.acmrp.org" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
-twitter_handle: '@hackillinois'
+twitter_handle: '@uiuc_rp'
 
 #fill in disqus shortname to use disqus
 #disqus: disqus-shortname
@@ -36,22 +36,26 @@ twitter_handle: '@hackillinois'
 # social icons and sharing options
 social:
   - icon:	twitter
-    url:	https://twitter.com/hackillinois
+    url:	https://twitter.com/uiuc_rp
     desc: Follow us on Twitter
     share_url: http://twitter.com/share
     share_title: ?text=
     share_link: "&amp;url="
 
+  - icon:	instagram
+    url:	https://www.instagram.com/uiuc_rp/
+    desc: Follow us on Instagram
+
   - icon:	facebook
-    url:	https://facebook.com/hackillinois
+    url:	https://facebook.com/acmrp
     desc: Connect with us on Facebook
     share_url: https://www.facebook.com/sharer.php
     share_title: ?t=
     share_link: "&amp;u="
 
-  - icon:	github
-    url:	https://github.com/hackillinois
-    desc:	Check us out on GitHub
-    share_url:
-    share_title:
-    share_link:
+  # - icon:	github
+  #   url:	https://github.com/hackillinois
+  #   desc:	Check us out on GitHub
+  #   share_url:
+  #   share_title:
+  #   share_link:
