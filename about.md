@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: about
 title: About
 permalink: /about/
 ---
 
-HackIllinois is a 36 hour, student-ran collegiate hackathon that focuses on bringing the open source community and college students together.
+Reflections &#124; Projections is an annual technology conference organized and run by students at the University of Illinois at Urbana-Champaign, drawing students, speakers, and companies from around the world. You can find out more about us on [our website](acmrp.org)!
