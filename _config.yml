@@ -4,9 +4,10 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Relfections | Projections"
+title: "Reflections | Projections"
 description: > # this means to ignore newlines until "email:"
-   The Reflections | Projections blog! Check out what we've been up to.
+   Reflections | Projections is an annual technology conference organized and run by students at the University of Illinois at Urbana-Champaign, drawing students, speakers, and companies from around the world. 
+   Checkout what we've been up to!
 
 future: true
 
