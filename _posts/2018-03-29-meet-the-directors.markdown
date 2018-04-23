@@ -5,7 +5,12 @@ date:   2018-03-29 12:00:00
 image: "/assets/images/squiggles2.png"
 categories: spotlight
 tags: rp2018
-author: Rohin Bhasin
+author: { 
+  name: Rohin Bhasin, 
+  bio: "CS @ Illinois ’21",
+  title: "R&#124;P 2018 Marketing Staff",
+  image: "/assets/images/logo.png" #default
+}
 ---
 Get to know the co-directors of R&#124;P 2018: Vidushi Rai and Nikhil Modak  
 
