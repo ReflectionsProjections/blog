@@ -3,9 +3,10 @@ layout: post
 title:  "R&#124;P 2018: Meet the Directors!"
 date:   2018-03-29 12:00:00
 categories: spotlight
-tags: featured rp2018
+tags: rp2018
 author: Rohin Bhasin
 ---
+Get to know the co-directors of R&#124;P 2018: Vidushi Rai and Nikhil Modak  
 
 ### Q: Hi Nikhil, Vidushi! Glad to be here with you today. Before we get started, can you give me some background about you guys? What year are you, how long have you been with the Reflections&#124;Projections team, and what brought you to the role that you’re in today?
 
@@ -40,4 +41,6 @@ author: Rohin Bhasin
 
 <center>&middot;&middot;&middot;</center>
 Stay tuned to hear more about R&#124;P… be sure to follow and like on [Twitter](https://twitter.com/uiuc_rp), [Facebook](https://facebook.com/acmrp), and [Instagram](https://www.instagram.com/uiuc_rp/)!   
-We’ll see you from September 17–22, 2018.
+We’ll see you from September 17–22, 2018.  
+
+*Rohin Bhasin, CS @ Illinois ’21. Special thanks to Ema Milojkovic for editing and Nikhil & Vidushi for being a part of it!*
