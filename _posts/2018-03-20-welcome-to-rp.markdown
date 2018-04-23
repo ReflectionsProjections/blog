@@ -2,6 +2,7 @@
 layout: post
 title:  "Welcome to the Reflections|Projections Blog!"
 date:   2018-03-20 11:05:25
+image: "/assets/images/squiggles2.png"
 categories: general
 author: Ema Milojkovic
 ---

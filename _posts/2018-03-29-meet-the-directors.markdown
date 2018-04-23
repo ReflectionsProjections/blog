@@ -2,6 +2,7 @@
 layout: post
 title:  "R&#124;P 2018: Meet the Directors!"
 date:   2018-03-29 12:00:00
+image: "/assets/images/squiggles2.png"
 categories: spotlight
 tags: rp2018
 author: Rohin Bhasin
