@@ -6,6 +6,7 @@ categories: spotlight
 tags: rp2018
 author: Rohin Bhasin
 ---
+Get to know the co-directors of R&#124;P 2018: Vidushi Rai and Nikhil Modak  
 
 ### Q: Hi Nikhil, Vidushi! Glad to be here with you today. Before we get started, can you give me some background about you guys? What year are you, how long have you been with the Reflections&#124;Projections team, and what brought you to the role that you’re in today?
 
