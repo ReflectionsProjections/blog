@@ -20,7 +20,7 @@ The 1995 Midwestern ACM Chapter Conference was definitely one for the books! Fro
 ## [1996](https://www-s.acm.illinois.edu/conference/1996/)
 ![  ](/assets/images/post_images/rp_through_the_years/1996.gif)
 **What’s new:** AI programming competition: Mech-Mania 2!  
-**Keynote Speaker(s):** Tim Krauskopf (Founder of Spyglass Inc.), Erich Ringewald (maker of the BeBox.), & Alex Osadzinski (VP of Marketing at Be Inc.)  
+**Keynote Speaker(s):** Tim Krauskopf (Founder of Spyglass Inc.); Erich Ringewald (maker of the BeBox.); Alex Osadzinski (VP of Marketing at Be Inc.)  
 
 With the same annual theme as last year — “Reflections &#124; Projections”, the 2nd ACM conference held a campus-wide employment fair and an AI programming competition, Mech-Mania 2! MechMania invited passionate students from across the midwest to code armies of mechanized warriors to take over the galaxy! Along with all this, since conferences aren’t just all work and no play, social events were scheduled all throughout the weekend.
 
@@ -35,7 +35,7 @@ The third annual ACM chapter conference came back strong, with more color, more 
 ## [1998](https://www-s.acm.illinois.edu/conference/1998/)
 ![  ](/assets/images/post_images/rp_through_the_years/1998.gif)
 **What’s new:** Panel discussion on Women in Computing!  
-**Keynote Speaker(s):** Bjarne Stroustrup, the designer & original implementer of C++ and the author of “The C++ Programming Language”.  
+**Keynote Speaker(s):** Bjarne Stroustrup, the designer & original implementer of C++ and the author of “The C++ Programming Language”  
 **Highlights:** Arts & Music in CS, RoundTable on free software, computers in genetics & women in tech!  
 
 The 1998 ACM chapter conference was back with a fresh look but an unchanged philosophy of what it means to be a part of cutting edge computer technology! Apart from all the inspiring speakers, the Panel Discussion on Women in Computing was another highlight of the event! From our very own Susan Linnemeyer (Asst. Dean & Director, Women in Engineering) to Kathy Cupect (Software Developer at Geneer), we had inspiring women lead a discussion on what it means to be a woman in the tech industry. They hit vital topics such as why women don’t take up careers in CS & how the media portrays CS. It was a powerful dialogue that empowered the female engineers of the future!
@@ -51,8 +51,8 @@ The 1998 ACM chapter conference was back with a fresh look but an unchanged phil
 ## [2003](https://www-s.acm.illinois.edu/conference/2003/)
 ![  ](/assets/images/post_images/rp_through_the_years/2003.gif)
 **What’s new:** Computing Job Fair, Picking locks with cryptography, puzzle-hack!  
-**Keynote Speaker(s):** Barbara Simons, the ACM national lecturer!  
-Conference Highlights: Immersive computing, Internet voting, Panel on working security in a working environment!  
+**Keynote Speaker(s):** Barbara Simons, the ACM national lecturer  
+**Highlights:** Immersive computing, Internet voting, Panel on working security in a working environment!  
 
 2003 was the year of cryptography, security and multimedia! A puzzle hack final party, and an exhilarating talk on “Picking Locks with Cryptology” by Matt Blaze, were only two of the many attractions at R&#124;P 2003. Along with all this, Barbara Simons, the ACM national lecturer, gave a talk on Computerized and Internet voting! The ninth annual conference also had a creative portion, where undergraduates were invited to submit research projects or ideas to present in the form of a poster. The projects were along the lines of open-source development, independent study, & semester group projects.
 
@@ -76,7 +76,7 @@ The 19th annual conference was expected to have over 900 student attendees and o
 ## [2015](https://www-s.acm.illinois.edu/conference/2015/)
 ![  ](/assets/images/post_images/rp_through_the_years/2015.jpg)
 **What’s new:** Fresh logo, Startup fair, startup panel, Microsoft, GoDaddy, Palantir Talks!  
-**Keynote Speaker(s):** Anna Patterson, VP of Engineering, AI at Google, Cassidy Williams, Software Engineer at Clarifai, Jason Tan, Co-Founder and CEO of Sift Science!  
+**Keynote Speaker(s):** Anna Patterson (VP of Engineering, AI at Google); Cassidy Williams (Software Engineer at Clarifai); Jason Tan (Co-Founder and CEO of Sift Science) 
 
 2015 was the year of innovation, entrepreneurship, and brilliance. With the startup fair offering hands-on experience and the ability to make an impact, students challenged themselves and learned faster than ever before. We had Alan Braverman (the co-founder of several startups including Xoom, Geni, Yammer, & The Giant Pixel Corporation), Greg Baugues (developer evangelist at Twilio,) Jerry Talton (CEO of Apropose), Winnie Cheng (Chief Data Scientist at Bankrateand), and many more inspirational speakers from all walks of life.
 
@@ -87,9 +87,11 @@ The 19th annual conference was expected to have over 900 student attendees and o
 
 2017 was the year of a logo change and an extension of the conference into a week long event! It consisted not only of a career fair but a start-up fair as well!
 
-## [Beyond](https://acmrp.org/#/)
+## [... and Beyond!](https://acmrp.org/#/)
 R&#124;P has always been a source of innovation & drive for the CS community here at Illinois, and will continue to be for years to come. Shivali Patel, director of R&#124;P 2017, says “R&#124;P to me, is a hub of quality career fairs, a unique startup fair, and an overabundance of R&#124;P t-shirts!” So don’t forget to register for a one-of-a-kind tech conference and experience technology like never before!
 
 <center>&middot;&middot;&middot;</center>
 Stay tuned to hear more about R&#124;P… be sure to follow and like on [Twitter](https://twitter.com/uiuc_rp), [Facebook](https://facebook.com/acmrp), and [Instagram](https://www.instagram.com/uiuc_rp/)!   
-We’ll see you from September 17–22, 2018.
+We’ll see you from September 17–22, 2018.  
+
+*Niharika Manda, CS @ Illinois ’20. Special thanks to Ema Milojkovic, Nikhil Modak, Vidushi Rai, and Rohin Bhasin for editing!*

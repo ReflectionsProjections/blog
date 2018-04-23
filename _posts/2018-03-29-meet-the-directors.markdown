@@ -41,4 +41,6 @@ Get to know the co-directors of R&#124;P 2018: Vidushi Rai and Nikhil Modak
 
 <center>&middot;&middot;&middot;</center>
 Stay tuned to hear more about R&#124;P… be sure to follow and like on [Twitter](https://twitter.com/uiuc_rp), [Facebook](https://facebook.com/acmrp), and [Instagram](https://www.instagram.com/uiuc_rp/)!   
-We’ll see you from September 17–22, 2018.
+We’ll see you from September 17–22, 2018.  
+
+*Rohin Bhasin, CS @ Illinois ’21. Special thanks to Ema Milojkovic for editing and Nikhil & Vidushi for being a part of it!*
