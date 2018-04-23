@@ -18,6 +18,9 @@ logo: "/assets/images/logo.png"
 # blog cover
 cover: "/assets/images/cover.jpg"
 
+# blog bottom cover
+bottomcover: "/assets/images/squiggles2.png"
+
 name: 'Reflections | Projections Staff'
 author: 'Reflections | Projections Staff'
 author_image: "/assets/images/logo.png"

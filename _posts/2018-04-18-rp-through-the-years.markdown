@@ -2,9 +2,15 @@
 layout: post
 title:  "Relfections &#124; Projections Through the Years"
 date:   2018-04-18 12:00:00
+image: "/assets/images/squiggles2.png"
 categories: spotlight
 tags: featured rp2018
-author: Niharika Manda
+author: { 
+  name: Niharika Manda, 
+  bio: "CS @ Illinois ’20",
+  title: "R&#124;P 2018 Marketing Staff",
+  image: "/assets/images/logo.png" #default
+}
 ---
 
 A timeline of the largest student-run tech conference in the Midwest!  
