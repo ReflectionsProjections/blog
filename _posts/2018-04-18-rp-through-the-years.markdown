@@ -7,7 +7,7 @@ tags: featured rp2018
 author: Niharika Manda
 ---
 
-A Timeline of the largest student-run Tech Conference in the midwest  
+A timeline of the largest student-run tech conference in the Midwest!  
 
 ## [1995](https://www-s.acm.illinois.edu/conference/1995/)
 ![  ](/assets/images/post_images/rp_through_the_years/1995.gif)
