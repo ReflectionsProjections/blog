@@ -8,7 +8,7 @@ author: {
   name: Ema Milojkovic, 
   bio: "CS @ Illinois ’20",
   title: "R&#124;P 2018 Marketing Chair",
-  image: "/assets/images/logo.png" #default
+  image: "/assets/images/author_images/ema_milojkovic.png" #default
 }
 ---
 

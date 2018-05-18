@@ -9,7 +9,7 @@ author: {
   name: Niharika Manda, 
   bio: "CS @ Illinois ’20",
   title: "R&#124;P 2018 Marketing Staff",
-  image: "/assets/images/logo.png" #default
+  image: "/assets/images/author_images/niharika_manda.png"
 }
 ---
 

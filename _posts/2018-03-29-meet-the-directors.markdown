@@ -9,7 +9,7 @@ author: {
   name: Rohin Bhasin, 
   bio: "CS @ Illinois ’21",
   title: "R&#124;P 2018 Marketing Staff",
-  image: "/assets/images/logo.png" #default
+  image: "/assets/images/author_images/rohin_bhasin.png"
 }
 ---
 Get to know the co-directors of R&#124;P 2018: Vidushi Rai and Nikhil Modak  
