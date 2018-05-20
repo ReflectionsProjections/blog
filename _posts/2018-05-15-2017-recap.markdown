@@ -4,12 +4,12 @@ title:  "2017 Reflections &#124; Projections: A Recap"
 date:   2018-05-15 12:00:00
 image: "/assets/images/squiggles2.png"
 categories: spotlight
-tags: rp2018
+tags: rp2018 featured
 author: { 
   name: Rohin Bhasin, 
   bio: "CS @ Illinois ’21",
   title: "R&#124;P 2018 Marketing Staff",
-  image: "/assets/images/logo.png" #default
+  image: "/assets/images/author_images/rohin_bhasin.png"
 }
 ---
 A brief recap of the 2017 R|P Conference and what it entailed!
