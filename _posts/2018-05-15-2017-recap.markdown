@@ -1,0 +1,70 @@
+---
+layout: post
+title:  "2017 Reflections &#124; Projections: A Recap"
+date:   2018-05-15 12:00:00
+image: "/assets/images/squiggles2.png"
+categories: spotlight
+tags: rp2018 featured
+author: { 
+  name: Rohin Bhasin, 
+  bio: "CS @ Illinois ’21",
+  title: "R&#124;P 2018 Marketing Staff",
+  image: "/assets/images/author_images/rohin_bhasin.png"
+}
+---
+A brief recap of the 2017 R|P Conference and what it entailed!
+
+Reflections | Projections 2017 was an awesome, successful event. We hosted 20+ speakers in 4 tracks, 40+ sponsors, and tons of workshops and cool events. R|P 2017 was also home to the PuzzleBang competition and MechMania, our annual AI hackathon. The event encompasses all of these different things, so let’s take a deeper dive into what each part of R|P was and how it was all brought together.
+
+![  ](/assets/images/post_images/2017_recap/1.JPG)
+
+### Corporate Week
+
+This year, Reflections | Projections had two job fairs - a career fair and a startup fair. On Tuesday and Wednesday, The Siebel Center atrium was filled with companies and enthusiastic students lined up to meet them. The career fair had awesome companies like Facebook, Google, Microsoft, RetailMeNot, and Pinterest present. The recruiters from these big companies love coming to R|P because it gives them a chance to connect with students in a more casual setting, thereby facilitating more genuine connections between companies and students.
+
+The second job fair was a startup fair; R|P brought in tons of unicorns from all over the country, like Cloudflare, Rubrik, Ocient. Many of these companies - both startups and larger companies - also hosted individual tech talks, workshops, and socials throughout the week.
+
+### MechMania
+
+Of course, R|P wouldn’t be complete without its annual AI hackathon: MechMania! MechMania is traditionally a 24-hour hackathon held from Friday night to Saturday night towards the end of the R|P conference. This hackathon is very beginner friendly (it was my first hackathon as a freshman!) and has participants create an AI-powered bot to compete for first place. 
+
+In 2017, teams were tasked with creating bots for a 3v3 third-person shooter. Also new in 2017: MechMania switched completely to Unity and C# for its game development software from its previous years in Python. This was a new challenge for students competing and allowed for some Unity engineers to help out through the night as mentors! They had a great time, so you should look forward to more Unity in MechMania this year!
+
+![  ](/assets/images/post_images/2017_recap/2.JPG)
+
+![  ](/assets/images/post_images/2017_recap/3.JPG)
+
+### Speakers & Tracks
+
+As we approached the weekend, the core of the conference was finally here: the speakers. We had speakers from all different backgrounds: some professors, some CEOs, and many creators of awesome software. 
+
+Our keynote speakers were Brian Fox, the creator of the GNU bash shell, and Chris Gladwin, the CEO of Ocient. Some other speaker highlights included Travis Oliphant, the creator of NumPy and founder of Anaconda, Christine Hung, Head of Data Science at Spotify, and Laura Kriefman, award winning augmented dancer.
+
+For the first time, R|P introduced speaker tracks: Data/AI, Systems, Security/Privacy, and HCI/VR. Each speaker was placed in a track representing their main area in industry and topic of presentation, helping attendees discover and learn about whatever fields they were interested in - which, of course, is the ultimate goal of R|P. 
+
+A big part of Reflections | Projections is meeting and interacting with speakers. On Thursday, after Brian Fox’s keynote presentation, R|P staff, attendees, and speakers went with Brian to a local bar, Murphy’s! Later, there was another event for all speakers, recruiters, staff, and attendees to mingle on Saturday night at another bar, Firehaus. Staff loved having the opportunity to talk to everyone one-on-one and to meet all the people that made R|P the great conference it was!
+
+![  ](/assets/images/post_images/2017_recap/7.JPG)
+
+### PuzzleBang, Food, Escape Rooms, and more!
+
+Among other things, R|P also hosted a PuzzleBang competition! PuzzleBang is brought to you by a few awesome UIUC alums (shoutout to Ben and Dan!) who love making puzzles for our students year after year. For 2017, they released a logic puzzle each day for students to solve! These competitions increased in difficulty as the week went on, and carried a Harry Potter theme. You may have also seen the puzzles on r/puzzles!
+
+R|P’s puzzle solving didn’t end there, though. On Saturday and Sunday, R|P had escape rooms for attendees to try for free! We partnered with a local escape room business, Champaign-Urbana Adventures -- they brought and set up 15-minute and 30-minute mini-escape rooms in Siebel Center classrooms! Speaking from personal experiences, the escape room was a fun challenge and was a blast to complete in a team with other staff members and speakers!
+
+In addition, R|P catered multiple meals for attendees throughout the weekend for free! One of my personal favorites, Himalayan Chimney, was served Friday night. In any case, free food is always good food :)
+
+![  ](/assets/images/post_images/2017_recap/5.JPG)
+
+And as with any conference, we had some fun swag. 2017 was the first sight of R|P stress balls! We also had conference drawstrings, laptop stickers, beautiful pamphlets, and an R|P t-shirt - and that’s not even mentioning the swag companies gave away during the corporate fairs!
+
+![  ](/assets/images/post_images/2017_recap/6.JPG)
+
+R|P introduced a lot of new aspects to the conference in 2017. But, just wait until you see what we have planned for Reflections | Projections 2018! We hope to see you in Siebel Center at UIUC September 17th - 22nd enjoying all parts of our conference. Until then, make sure you stay up to date with all things R|P 2018 by following us on social media!
+
+<center>&middot;&middot;&middot;</center>
+
+Stay tuned to hear more about R&#124;P… be sure to follow and like on [Twitter](https://twitter.com/uiuc_rp){:target="_blank"}, [Facebook](https://facebook.com/acmrp){:target="_blank"}, and [Instagram](https://www.instagram.com/uiuc_rp/){:target="_blank"}!   
+We’ll see you from September 17–22, 2018.  
+
+*Rohin Bhasin, CS @ Illinois '21 and Ema Milojkovic, CS @ Illinois '20.*

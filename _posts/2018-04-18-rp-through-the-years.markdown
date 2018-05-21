@@ -4,7 +4,7 @@ title:  "Reflections &#124; Projections Through the Years"
 date:   2018-04-18 12:00:00
 image: "/assets/images/squiggles2.png"
 categories: spotlight
-tags: featured rp2018
+tags: rp2018
 author: { 
   name: Niharika Manda, 
   bio: "CS @ Illinois ’20",
