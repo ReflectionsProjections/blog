@@ -1,0 +1,54 @@
+---
+layout: post
+title:  "Our Reflections &#124; Projections 2018 Speakers!"
+date:   2018-08-09 12:00:00
+image: "/assets/images/squiggles2.png"
+categories: spotlight
+tags: rp2018 featured
+author: { 
+  name: Rohin Bhasin, 
+  bio: "CS @ Illinois ’21",
+  title: "R&#124;P 2018 Marketing Staff",
+  image: "/assets/images/author_images/rohin_bhasin.png"
+}
+---
+As we approach Reflections &#124; Projections 2018, we're excited to announce this year's speakers! Read more about them below. We hope you're 
+
+## Zach Lipton
+
+Zack Lipton is an assistant professor in the Machine Learning Department at Carnegie Mellon University. He predominantly researches deep learning, especially recurrent neural networks, deep reinforcement learning, and generative models. His work covers the application of these techniques to clinical health care. He is also intrigued by the study of the societal impacts of machine learning.
+
+## Brian Hoffman
+
+Brian Hoffman is the CEO and co-founder of OB1, a company focused on building software for OpenBazaar, a decentralized peer to peer marketplace for global free trade using Bitcoin. He spent over 10 years providing cybersecurity consulting services with clients like US Department of Defense, classified agencies as well as many Fortune 500 companies like Neiman Marcus, FedEx, Boeing and Hilton Hotels. He now runs one of the most well known decentralized application projects in the space with OpenBazaar.
+
+## Forrest Iandola
+
+Forrest Iandola is the co-founder and CEO of DeepScale, which develops energy-efficient deep-learning technology for the automotive industry. Before founding Deepscale, Forrest completed his doctorate studies at the University of California, Berkeley, where he researched the speed, memory usage, and energy-efficiency of deep neural networks. In addition to publishing over twenty papers, Forrest also helped develop SqueezeNet, a lightweight neural network architecture that is now standard part of many machine learning frameworks. Prior to his time at Berkeley, Forrest was a Computer Science at the University of Illinois at Urbana Champaign, where he received his bachelor’s degree in 2012.
+
+## Jay Gambetta
+
+Jay Gambetta is co-leading a team at IBM working to construct a large-scale quantum computer. He has done vast research on quantum systems and is a leader in the field of quantum computing. In addition, he was a leader to create the “IBM Q Experience” an online platform for quantum cloud computing. He was also appointed as an IBM Fellow, which is the highest honor a scientist at IBM can achieve. In addition, he is the associate editor of the Quantum Information journal.
+
+## Romain Paulus
+
+Romain Paulus is the Chief ML Scientist at Salesforce and is well established in the software and machine learning industry. Over the years, he has conducted research focusing on natural language processing and has published numerous papers in natural language processing and machine learning. Romain was also a founding engineer of MetaMind, an application that helps users train their own text and image machine learning models in a web application for business and data analytics. MetaMind was acquired by Salesforce in 2016.
+
+## Saad Ali
+
+Saad Ali is a senior software engineer at Google and is currently working on the Kubernetes project. He has led the development of the Kubernetes storage and volumes subsystem and maintains the Container Storage Interface. Before coming to Google, Saad worked at Microsoft where he led the development of the Internet Message Access protocol for Outlook.com.
+
+## Simon Adler
+
+Simon Adler is a producer at Radiolab. Before that, he was a Fellow at This American Life among other production-related roles. He graduated from the from University of Oregon with a triple major in Spanish, Psychology, and International Studies. He has recently worked on producing a myriad of interesting pieces on Radiolab, one of which reports on technology that could be used to rewrite the future of fake news.
+
+## Siraj Raval
+
+Siraj Raval is a data scientist, YouTtube star with close to 390K subscribers, and a bestselling author. Raval is currently the director of The School of AI, the largest active AI community on the web, where his mission is to encourage and educate developers to build artificial intelligence. Siraj has also authored a best selling book, “Decentralized Applications: Harnessing Bitcoin's Blockchain Technology”. He has also published many articles on various topics like blockchain and artificial intelligence.
+
+<center>&middot;&middot;&middot;</center>
+
+Stay tuned to hear more about R&#124;P… be sure to follow and like on [Twitter](https://twitter.com/uiuc_rp){:target="_blank"}, [Facebook](https://facebook.com/acmrp){:target="_blank"}, and [Instagram](https://www.instagram.com/uiuc_rp/){:target="_blank"}!   
+We’ll see you from September 17–22, 2018.  
+
+*Rohin Bhasin, CS @ Illinois '21 and Ema Milojkovic, CS @ Illinois '20.*
