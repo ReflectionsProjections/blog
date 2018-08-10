@@ -4,7 +4,7 @@ title:  "2017 Reflections &#124; Projections: A Recap"
 date:   2018-05-15 12:00:00
 image: "/assets/images/squiggles2.png"
 categories: spotlight
-tags: rp2018 featured
+tags: rp2018
 author: { 
   name: Rohin Bhasin, 
   bio: "CS @ Illinois ’21",
