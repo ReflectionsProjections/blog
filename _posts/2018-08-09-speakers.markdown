@@ -44,7 +44,7 @@ Simon Adler is a producer at Radiolab. Before that, he was a Fellow at This Amer
 
 ## Siraj Raval
 
-Siraj Raval is a data scientist, YouTtube star with close to 390K subscribers, and a bestselling author. Raval is currently the director of The School of AI, the largest active AI community on the web, where his mission is to encourage and educate developers to build artificial intelligence. Siraj has also authored a best selling book, “Decentralized Applications: Harnessing Bitcoin's Blockchain Technology”. He has also published many articles on various topics like blockchain and artificial intelligence.
+Siraj Raval is a data scientist, YouTube star with close to 390K subscribers, and a bestselling author. Raval is currently the director of The School of AI, the largest active AI community on the web, where his mission is to encourage and educate developers to build artificial intelligence. Siraj has also authored a best selling book, “Decentralized Applications: Harnessing Bitcoin's Blockchain Technology”. He has also published many articles on various topics like blockchain and artificial intelligence.
 
 <center>&middot;&middot;&middot;</center>
 
